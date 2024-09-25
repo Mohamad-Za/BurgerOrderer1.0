@@ -1,0 +1,7 @@
+{
+    "host":     "LAPTOP-41P19MFQ.local",
+    "user":     "dbadm",
+    "password": "P@ssw0rd",
+    "database": "burger_orderer",
+    "multipleStatements": true
+}
